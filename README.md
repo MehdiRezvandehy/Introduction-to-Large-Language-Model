@@ -1,1 +1,3 @@
-# Introduction-to-Large-Language-Model
+# Introduction to BERT Large Language Model
+
+BERT, which stands for Bidirectional Encoder Representations from Transformers, is a groundbreaking natural language processing (NLP) model that has significantly advanced the field of language understanding and machine learning. Developed by Google in 2018, BERT is a transformer-based neural network architecture designed to comprehend context and relationships within sentences by considering the bidirectional flow of information. This notebook will elucidate the fundamentals of Large Language Models (LLMs), demonstrating the implementation of the BERT model using the transformer architecture.
